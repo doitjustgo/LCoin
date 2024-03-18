@@ -21,7 +21,7 @@ export default function AllCoins() {
   return (
     <div className={styles.container}>
       {loading1 || loading2 ? (
-        '로딩중'
+        '로딩중... 이 화면이 3초 이상 보일 경우 업비트 API가 차단된 인터넷 망을 사용중입니다. 업비트 접속이 가능한 곳에서 다시 시도해주세요'
       ) : (
         <div className={styles.coinsList}>
           {coinsWithPriceAndName.slice(0, 100).map((oneCoin) => (
