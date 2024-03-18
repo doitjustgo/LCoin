@@ -10,7 +10,7 @@
 
 
 ㅁ 화면구성  
-　ㅇ 접속 시 화면
+　ㅇ 데스크탑에서 접속 시 화면
 
 　ㅇ 모바일에서 접속 시 화면
 ![image](https://github.com/doitjustgo/LCoin/assets/24933367/db729f37-4e79-41c8-9671-28c094ff78be)
