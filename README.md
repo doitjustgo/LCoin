@@ -1,70 +1,22 @@
-# Getting Started with Create React App
+** [LCoin] - https://golcoin.vercel.app **
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ㅁ 개요  
 
-## Available Scripts
+　ㅇ 실시간으로 가상화폐(코인) 가격을 확인할 수 있습니다. 
+ 
+　ㅇ React를 기반으로, react-query 등 관련 라이브러리를 사용하여 개발하였습니다.
 
-In the project directory, you can run:
+　ㅇ 업비트API를 사용하여 실제 코인 가격을 실시간으로 보여줍니다.  
+ 　　※ 기관 인터넷망 정책에 따라 업비트 접속이 차단되어 있는 경우 LCoin 홈페이지 이용이 어렵습니다.
+  
+　ㅇ 별도 새로고침 없이 실시간으로 가격변동을 확인할 수 있습니다.
+ 
+　ㅇ 반응형 웹페이지로 개발하여 모바일에서도 이용 가능합니다.
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+ㅁ 화면구성
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+　ㅇ 데스크탑에서 접속 시 화면
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+　ㅇ 모바일에서 접속 시 화면  
+![image](https://github.com/doitjustgo/LCoin/assets/24933367/db729f37-4e79-41c8-9671-28c094ff78be)
